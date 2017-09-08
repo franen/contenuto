@@ -2,7 +2,7 @@
 title: "Hidden social section showcase"
 thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
-date: 2014-08-17
+date: 2020-08-17
 categories:
 - tranquilpeak
 - features

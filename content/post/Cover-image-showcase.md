@@ -5,7 +5,7 @@ thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jp
 coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
 metaAlignment: center
 coverMeta: out
-date: 2015-05-13
+date: 2020-05-13
 categories:
 - tranquilpeak
 - features
