@@ -7,6 +7,6 @@ date: 2015-05-13
 showPagination: false
 
 ---
-
-Qui va spiegato un po' come funziona il sito. Ma lo facciamo tra poco!
+## Sito in costruzione
+Qui spiegheremo un po' meglio come funziona il sito... Per ora fate riferimento alle mail che vi vengono inviate quando lo create.
 <!--more-->
