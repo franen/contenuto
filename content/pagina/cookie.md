@@ -3,7 +3,7 @@ title: "Cookie"
 thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
 metaAlignment: center
-aliases: [/biscottini/]
+aliases: [/biscotti/]
 showPagination: false
 ---
 
