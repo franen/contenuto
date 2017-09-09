@@ -7,7 +7,7 @@ aliases: [/biscottini/]
 showPagination: false
 ---
 
-#Cookie Policy
+# Cookie Policy
 
 Usiamo i cookie di Google per tracciare la navigazione degli utenti in forma anonima e capire così quanto venga usato questo sito. 
 
