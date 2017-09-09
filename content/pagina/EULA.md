@@ -5,6 +5,8 @@ thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jp
 metaAlignment: center
 date: 2015-05-13
 aliases: [/eula/]
+showPagination: false
+
 ---
 
 # EULA
