@@ -9,4 +9,4 @@ showPagination: false
 ### Sito in costruzione
 Qui appena abbiamo un attimo di tempo spieghiamo invece come si può fare a collaborare! In generale, promuoviamo la trascrizione di nuove canzoni per arricchire il database (e l'invio di immagini belle che se no il sito diventa monotono)!
 
-Grazie per la vostra pazienza
+Grazie per la vostra pazienza...
